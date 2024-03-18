@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 import matplotlib.pyplot as plt
 
-img = cv2.imread("../_img/img-d.jpg", 1)
+img = cv2.imread("../_img/img-d.png", 1)
 
 # split the image channels
 # This line splits the loaded image img into its three color channels: blue (b), green (g),
